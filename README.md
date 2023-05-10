@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WanderTerra
 - 👀 I’m interested in learn dev
-- 🌱 I’m currently learning System Analysis and Development
+- 🌱 I’m currently learning System Analysis and Development at Estácio de Sá College
+- I'm currently learning System Development at SENAC-MS (Fábrica de software)
 - 💞️ I’m looking to collaborate on dev students
 - 📫 How to reach me wanderleyterra@gmail.com
 
