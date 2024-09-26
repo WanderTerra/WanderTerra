@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WanderTerra
-- 👀 I’m interested in learn dev
-- 🌱 I’m currently learning System Analysis and Development at Estácio de Sá College
+- 👀 I’m interested in AI and RPA
+- 🌱 I am a System Analysis and Development Technologist from Estácio de Sá College
 - 🌱 I am a Systems Analysis Technician from SENAC-MS.(Fábrica de software)
 - 💞️ I’m looking to collaborate on dev students
 - 📫 How to reach me wanderleyterra@gmail.com
