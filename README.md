@@ -63,6 +63,6 @@ configuráveis pela operação, sem alteração de código.
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/wanderley-terra-1bb84636/) · wanderleyterra@gmail.com
+[LinkedIn](https://www.linkedin.com/in/wanderley-da-silva-terra-1bb84636/) · wanderleyterra@gmail.com
 
 Aberto a oportunidades em IA aplicada, automação e back-end Python.
