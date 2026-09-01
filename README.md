@@ -2,7 +2,7 @@
 
 ## Wanderley Terra
 
-**Desenvolvedor de IA e Automação** — Python · RPA · agentes de voz
+**Desenvolvedor de IA e Automação** — Python · RPA · agentes de voz<br>
 Campo Grande, MS · Brasil
 
 Construo sistemas que colocam IA dentro da operação: transcrição e análise de ligações,
@@ -14,16 +14,7 @@ boas práticas de código, segurança e deploy enquanto o escritório inteiro ad
 
 ### Arquitetura que construí
 
-```mermaid
-flowchart LR
-    A["Ligação ao vivo"] --> B["Streaming de áudio"]
-    B --> C["Speech-to-Text + diarização"]
-    C --> D["Avaliação por LLM"]
-    E["Critérios da carteira"] --> D
-    D --> F["Orientação ao operador em tempo real"]
-    D --> G[("Histórico")]
-    G --> H["Nota e feedback por ligação"]
-```
+![Pipeline de monitoria e copiloto](pipeline.svg)
 
 Uma mesma base atende dois momentos: o copiloto que orienta o atendente **durante** a chamada
 e a monitoria que avalia **100% das ligações** depois dela. Os critérios de avaliação são
