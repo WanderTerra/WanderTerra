@@ -1,3 +1,5 @@
+![Wanderley Terra](header.svg)
+
 ## Wanderley Terra
 
 **Desenvolvedor de IA e Automação** — Python · RPA · agentes de voz
